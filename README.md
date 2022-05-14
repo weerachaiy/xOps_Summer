@@ -1,7 +1,7 @@
 # xOps_Summer 2022 
 Computer Engineering Dept, Rajamangala University of Technology Thanyaburi.
 
-# Members
+## Members
 - https://github.com/phisic1714
 - https://github.com/nipat01
 - https://github.com/chonlatee11
@@ -20,71 +20,28 @@ Computer Engineering Dept, Rajamangala University of Technology Thanyaburi.
 - https://github.com/y-surassawadee
 - https://github.com/NuttapongCH
 - https://github.com/PhinyoCh
+- https://github.com/JK369x
 - https://github.com/deachrut
 - https://github.com/weerachaiy
 
-
-############################################
-# Kick-off: 20220502
-
-- https://devops.com/the-basics-devsecops-adoption/
-- https://braindose.blog/2020/03/18/4-key-characteristics-of-gitops/
-- https://blog.pjjop.org/
-
-- first tools (github)
-    - https://desktop.github.com/
-    - https://youtu.be/X3bQzBhRMKQ
-    - https://youtu.be/S0GK7-QHSBc
-    - https://youtu.be/X3bQzBhRMKQ 
-
-- prepare meeting#1 (Before 7May2022)
-    - tools installed
-        - https://www.docker.com/products/docker-desktop/
-        - https://code.visualstudio.com/download
-    - review this course
-        - https://www.sharelearn.net/practice/dockerlabs/
-# มีเวลาอ่านล่วงหน้า
-- https://blog.pjjop.org/docker-tutorial-for-beginners/
-- https://blog.pjjop.org/docker-tutorial-for-beginners-part-2/
-# ทดลองทำดูก่อนก็ได้
-- https://blog.pjjop.org/how-to-set-lemp-stack-with-docker-containers/
+## Meeting
+- [20220502-kickoff](https://github.com/pitimon/xOps_Summer/tree/master/20220502)
+- [20220507](https://github.com/pitimon/xOps_Summer/tree/master/20220507)
+- [20220514](https://github.com/pitimon/xOps_Summer/tree/master/20220514)
 
 
-############################################
-# meeting#20220507
-
-GitHub case
-- profile setting
-- dockerhub desktop
-- vsCode+github
-- ex:
-    - https://github.com/marttp
-- Advanced github Build/Test/Deploy
-    - https://docs.github.com/en/actions
-
-Docker
-- https://www.freecodecamp.org/news/the-docker-handbook/
-- https://www.sharelearn.net/practice/dockerlabs/
-- https://hub.docker.com/
-- https://www.docker.com/pricing/
-
-Portainer
-- https://docs.portainer.io/v/ce-2.11/start/install/server
-    - OAuth authenticate with github user
-    - https://github.com/settings/developers
-
-LAMP
-- https://blog.pjjop.org/how-to-set-lemp-stack-with-docker-containers/
 
 
-Owncloud
-- https://doc.owncloud.com/server/next/admin_manual/installation/docker/
-
-Guide to app
-- https://bitnami.com/stacks
-
-prepare meeting#2
 
 
-############################################
-# meeting#2 202205
+
+
+
+
+#######################
+## Kubernetes (Temp)
+- https://dev.to/freakynit/kubernetes-handnotes-2bm9
+- https://dockerlabs.collabnix.com/kubernetes/cheatsheets/kubectl.html
+
+## Best url
+- https://github.com/bregman-arie
